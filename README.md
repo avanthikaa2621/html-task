@@ -1,2 +1,1 @@
-# Name.html
-&lt;title> → Displays the name in the browser tab. &lt;h1> → Displays the main heading on the webpage. &lt;p> → Displays a short description.
+A simple HTML project showcasing name, about me, qualities, photo & name, submit button ,success story, my qualities, my college, s.no & family member, inserted above details, my hobbies, success story details, five friends.
